@@ -1,5 +1,5 @@
 Data:
-The data has been collected in the form of csv file from kaggle https://www.kaggle.com/datasets/sirajahmad/acciojob-ml-capstone-ecommerce
+The data has been collected in the form of csv file http://bit.ly/3Azx3G5
 
 Business Problem Statement: Enhancing Marketing Strategy and Customer Experience in E-commerce
 
